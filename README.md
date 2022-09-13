@@ -1,6 +1,4 @@
-<div  style = "aling: center;">
-<img aling="center"  src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-concepto-de-web-de-l%C3%ADnea-de-vector-para-la-programaci%C3%B3n-banner-web-lineal-para-aprender-a-codificar-.jpg">
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Lautaro Costa</h1>
 <h3 align="center">A passionate frontend developer, here you can see the code of some of my published projects</h3>
